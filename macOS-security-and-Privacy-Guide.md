@@ -64,3 +64,4 @@
 
 
 Перевод https://github.com/drduh/macOS-Security-and-Privacy-Guide/blob/master/README.md
+Специально для macmachine.ru
