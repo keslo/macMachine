@@ -65,6 +65,6 @@
 - Дополнительные ресурсы
 
 
-Источник [macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide/blob/master/README.md)
+Источник [macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide/blob/master/README.md) (english)
 
 Переведено для [macMachine.ru](https://www.macmachine.ru/blog/povyshaem_bezopasnost_i_konfidencialnost_dannyh_v_kompyuterah_mac_i_sisteme_macos.html)
