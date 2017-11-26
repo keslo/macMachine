@@ -108,7 +108,7 @@
 
 Введите пароль и перезапустите Mac.
 
-[Фото](https://cloud.githubusercontent.com/assets/12475110/17075918/0f851c0c-50e7-11e6-904d-0b56cf0080c1.png)
+<img width="750" alt="Использование Dediprog SF600 для удаления пароля прошивки." src="https://cloud.githubusercontent.com/assets/12475110/17075918/0f851c0c-50e7-11e6-904d-0b56cf0080c1.png">
 
 Использование Dediprog SF600 для удаления пароля прошивки. Смотри [HT204455](https://support.apple.com/en-au/HT204455), [LongSoft/UEFITool](https://github.com/LongSoft/UEFITool) и [chipsec/chipsec](https://github.com/chipsec/chipsec) для дополнительной информации.
 
